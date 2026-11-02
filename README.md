@@ -4,7 +4,7 @@
 
 
 ## 프로젝트 구성도
-![프로젝트 구성도](<img width="621" height="878" alt="AWS_WAF" src="https://github.com/user-attachments/assets/48a0b03d-e64a-4b2d-ab38-e7723f581c44" />)
+![프로젝트 구성도](https://github.com/user-attachments/assets/48a0b03d-e64a-4b2d-ab38-e7723f581c44)
 
 
 ## 프로젝트 목표
